@@ -27,7 +27,7 @@ Get a free API key at [Google AI Studio](https://aistudio.google.com/).
 ## Usage
 
 ```bash
-python main.py
+uv run main.py
 ```
 
 ## Example output
